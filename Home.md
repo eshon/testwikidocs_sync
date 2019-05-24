@@ -1,6 +1,6 @@
-Welcome to the testwikidocs_sync wiki!
+Welcome to the testwikidocs_sync wiki!   :)
 
-This is a test page.
+This is a test page. test
 
 Trying out another change....
 

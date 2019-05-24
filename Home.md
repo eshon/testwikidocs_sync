@@ -16,7 +16,7 @@ Ok it works so workflow with a `metarepo/docs` copied from `metarepo/<submodule>
 
 If there are Edits on the Wiki then in `metarepo/<submodule>`:
 
-1. `git submodule update --remote --merge` from `metarepo`
+1. `git pull origin master` from `metarepo/<submodule>`
 
 2. cp .md files in `metarepo/<submodule>` to `metarepo/docs` to update live docs website
 

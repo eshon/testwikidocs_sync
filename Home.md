@@ -10,6 +10,8 @@ Now trying an update from the umbrella repo
 
 Now trying a fork and PR
 
+![possum](https://static01.nyt.com/images/2019/05/27/opinion/27Renkl/0d7ba255b0ed450c80989478ddd00f15-superJumbo.jpg?quality=90&auto=webp)
+
 ------------
 
 Ok it works so workflow with a `metarepo/docs` copied from `metarepo/<submodule>` folder seems to be:

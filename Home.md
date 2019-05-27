@@ -10,10 +10,7 @@ Now trying an update from the umbrella repo
 
 Now trying a fork and PR
 
-![possum](https://github.com/eshon/testwikidocs_sync/wiki/images/possum.jpg "Possum")
-
-
-[[https://github.com/eshon/testwikidocs_sync/wiki/images/possum.jpg|alt=possum]]
+![possum](images/possum.jpg "Possum")
 
 
 ------------
